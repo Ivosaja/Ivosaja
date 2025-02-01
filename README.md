@@ -21,12 +21,6 @@
 
 ---
 
-
-<!--
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
--->
-
-
 <div>
 
 ### 💡About me
@@ -40,18 +34,6 @@
 
 </div>
 
-<!--
-```
-💡About me
--------------------------
-💻 I am a University Technician in Programming  
-📚 Currently, I am studying at UTN Fra
-📝 I have a strong interest in Backend and Mobile Development
-🌱 Learning and specializing in Spring Boot
-🌟 Main languages: Python, Java
-🚩 Interested in operating systems based on GNU/Linux
-```
--->
 
 ### 🧠 My Skills
 ---
@@ -87,3 +69,10 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 5.5px;"/>
     </a>
 </div>
+
+---
+
+### 📊 Github stats 
+
+[![](https://github-readme-stats.vercel.app/api?username=Ivosaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ivosaja)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ivosaja&theme=material-palenight)](https://github.com/Ivosaja)
