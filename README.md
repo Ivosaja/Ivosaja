@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=50&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=22&center=true&vCenter=true&width=600&height=50&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
 </div>
 
 
@@ -25,9 +25,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
 -->
 
+```
+💡About me
+-------------------------
+💻 I am a University Technician in Programming  
+📚 Currently, I am studying at UTN Fra
+📝 I have a strong interest in Backend and Mobile Development
+🌱 Learning and specializing in Spring Boot
+🌟 Main languages: Python, Java
+🚩 Interested in operating systems based on GNU/Linux
+```
+
+<!--
 ### 💡About me
 
 I'm a University Technician in Programming and a tech passionate developer who loves bringing ideas to life with code. I’m always exploring new technologies, building cool projects, and solving challenging problems. Currently specializing in Java Backend with Spring Boot
+-->
 
 ### 🧠 My Skills
 ---
