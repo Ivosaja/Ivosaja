@@ -14,7 +14,11 @@
 </div>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%3349ff&size=18&center=true&vCenter=true&width=600&height=50&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
+<!--
+<img src="https://readme-typing-svg.herokuapp.com?color=%3349ff&size=18&center=true&vCenter=true&width=600&height=50&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
+-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </div>
 
 <br>
