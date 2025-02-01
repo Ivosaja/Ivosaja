@@ -40,7 +40,7 @@
 </div>
 -->
 
-<img align=left width="320" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img align=left width="45%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 ```
 💡About me
