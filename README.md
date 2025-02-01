@@ -19,13 +19,13 @@
 
 <div id="contacts" align=center>
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 5.5px;" width=75/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"   width=80 style="border-radius:5.5px";/>
     </a>
     <a href= "mailto:ivoliobel@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5.5px;" width=75/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width=80 height=25 style="border-radius:5.5px";/>
     </a>
     <a href= "https://www.instagram.com/ivo_saja" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 5.5px;" width=90/>
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  width=100 height=25 style="border-radius:5.5px";/>
     </a>
 </div>
 
