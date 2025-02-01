@@ -19,8 +19,6 @@
 
 </div>
 
-
-
 <div align=center>
 
 [![](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-saja/)
@@ -41,6 +39,7 @@
 - 🌱 Learning and specializing in Spring Boot
 - 🌟 Main languages: Python, Java
 - 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, etc)
+- 🙋‍♂️ Reach out to me at: ivoliobel@gmail.com
 
 </div>
 
@@ -63,23 +62,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!--
-### 🙋‍♂️ How to reach out to me 
-<!--
-<p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
-
-<div id="contacts">
-    <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 5.5px;"/>
-    </a>
-    <a href= "mailto:ivoliobel@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5.5px;"/>
-    </a>
-    <a href= "https://www.instagram.com/ivo_saja" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 5.5px;"/>
-    </a>
-</div>
--->
 ---
 
 ### 📊 Github stats
