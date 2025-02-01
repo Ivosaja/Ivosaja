@@ -25,6 +25,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
 -->
 
+<div>
+
+### 💡About me
+
+- 💻 I am a University Technician in Programming  
+- 📚 Currently, I am studying at UTN Fra
+- 📝 I have a strong interest in Backend and Mobile Development
+- 🌱 Learning and specializing in Spring Boot
+- 🌟 Main languages: Python, Java
+- 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, etc)
+
+
+</div>
+
+<!--
 ```
 💡About me
 -------------------------
@@ -35,6 +50,7 @@
 🌟 Main languages: Python, Java
 🚩 Interested in operating systems based on GNU/Linux
 ```
+-->
 
 <!--
 ### 💡About me
