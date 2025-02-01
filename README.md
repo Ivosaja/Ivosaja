@@ -2,7 +2,7 @@
     <img width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </div>
 
-<div align=center top="100">
+<div align=center style="margin-top: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ivo+🚀;Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
 </div>
 
