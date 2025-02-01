@@ -33,7 +33,7 @@
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  style="border-radius: 5.5px;"/>
     </a>
-    <a href= "https://mailto:ivoliobel@gmail.com" target="_blank">
+    <a href= "mailto:ivoliobel@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5.5px;"/>
     </a>
     <a href= "https://www.instagram.com/ivo_saja?igsh=MXAxMjB3cGdzZnkxbA==" target="_blank">
