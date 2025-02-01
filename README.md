@@ -2,7 +2,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
 
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
+<!--
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+-->
 </div>
 
 <div align=center>
@@ -17,9 +21,6 @@
 
 ---
 
-<!--
-<h2 align=center> Hi, I'm Ivo, a developer 🚀 from Argentina </h2>
--->
 
 <!--
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
