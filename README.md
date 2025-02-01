@@ -21,10 +21,10 @@
 
 <div id="contacts" align=center>
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href= "mailto:ivoliobel@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gmail-c43c37?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href= "https://www.instagram.com/ivo_saja" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
