@@ -1,11 +1,10 @@
 <h2 align=center> Hi, I'm Ivo Saja, a developer 🚀 from Argentina </h2>
 
+### 💡About me
 
-<h3>💡 About me </h2>
-<p>I'm a University Technician in Programming and a tech passionate developer who loves bringing ideas to life with code. I’m always exploring new technologies, building cool projects, and solving challenging problems. Currently specializing in Java Backend with Spring Boot</p>
+I'm a University Technician in Programming and a tech passionate developer who loves bringing ideas to life with code. I’m always exploring new technologies, building cool projects, and solving challenging problems. Currently specializing in Java Backend with Spring Boot
 
-<h3>🧠 My Skills</h3>
-
+### 🧠 My Skills
 ---
 
 <h4>Languages</h4>
@@ -25,9 +24,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<h3> ✉️ How to reach out to me </h3>
-
+### ✉️ How to reach out to me 
 ---
+
 <p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
 <div id="contacts">
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
