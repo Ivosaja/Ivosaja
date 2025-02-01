@@ -19,7 +19,7 @@
 
 <br>
 
-<div id="contacts" align=center>
+<div align=center>
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
