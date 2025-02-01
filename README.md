@@ -40,6 +40,7 @@
 </div>
 -->
 
+<img align=left width="320" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 ```
 💡About me
@@ -78,7 +79,7 @@ I'm a University Technician in Programming and a tech passionate developer who l
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### ✉️ How to reach out to me 
+### 🙋‍♂️ How to reach out to me 
 <!--
 <p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
 -->
