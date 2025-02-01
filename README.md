@@ -39,9 +39,11 @@
 
 </div>
 -->
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320"/>
 
+<!--
 <img align=left width="45%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-
+-->
 ```
 💡About me
 -------------------------
