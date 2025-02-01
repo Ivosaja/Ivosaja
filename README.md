@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 -->
 
-
+<!--
 <div>
 
 ### 💡About me
@@ -37,10 +37,10 @@
 - 🌟 Main languages: Python, Java
 - 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, etc)
 
-
 </div>
+-->
 
-<!--
+
 ```
 💡About me
 -------------------------
@@ -51,7 +51,7 @@
 🌟 Main languages: Python, Java
 🚩 Interested in operating systems based on GNU/Linux
 ```
--->
+
 
 <!--
 ### 💡About me
