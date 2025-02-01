@@ -2,8 +2,8 @@
     <img width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </div>
 
-<div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ivo+🚀;Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" top="20"/>
+<div align=center; top="20">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ivo+🚀;Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
 </div>
 
 <!--
