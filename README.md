@@ -17,6 +17,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%3349ff&size=20&center=true&vCenter=true&width=600&height=50&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
 </div>
 
+<br>
+
 <div id="contacts" align=center>
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"   width=80 style="border-radius:5.5px";/>
