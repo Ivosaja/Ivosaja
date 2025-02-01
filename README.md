@@ -1,5 +1,7 @@
 <h2 align=center> Hi, I'm Ivo, a developer 🚀 from Argentina </h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
+
 ### 💡About me
 
 I'm a University Technician in Programming and a tech passionate developer who loves bringing ideas to life with code. I’m always exploring new technologies, building cool projects, and solving challenging problems. Currently specializing in Java Backend with Spring Boot
