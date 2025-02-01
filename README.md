@@ -25,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<h3> ✉️ How to reach me out </h3>
+<h3> ✉️ How to reach out to me </h3>
 
 ---
 <p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
@@ -36,7 +36,7 @@
     <a href= "mailto:ivoliobel@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 5.5px;"/>
     </a>
-    <a href= "https://www.instagram.com/ivo_saja?igsh=MXAxMjB3cGdzZnkxbA==" target="_blank">
+    <a href= "https://www.instagram.com/ivo_saja" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 5.5px;"/>
     </a>
 </div>
