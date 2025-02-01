@@ -1,4 +1,4 @@
-<h2 align=center> Hi, I'm Ivo Saja, a developer 🚀 from Argentina </h2>
+<h2 align=center> Hi, I'm Ivo, a developer 🚀 from Argentina </h2>
 
 ### 💡About me
 
@@ -6,7 +6,6 @@ I'm a University Technician in Programming and a tech passionate developer who l
 
 ### 🧠 My Skills
 ---
-
 <h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,7 +25,6 @@ I'm a University Technician in Programming and a tech passionate developer who l
 
 ### ✉️ How to reach out to me 
 ---
-
 <p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
 <div id="contacts">
     <a href= "https://www.linkedin.com/in/ivo-saja/" target="_blank">
