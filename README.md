@@ -3,6 +3,12 @@
 </div>
 
 <div align=center>
+
+### Hi, I'm Ivo, a developer 🚀 from Argentina
+
+</div>
+
+<div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ivo+🚀;Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline"/>
 </div>
 
@@ -22,7 +28,9 @@
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 -->
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
+-->
 
 ### 💡About me
 
@@ -46,7 +54,7 @@ I'm a University Technician in Programming and a tech passionate developer who l
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+<!--
 ### ✉️ How to reach out to me 
 ---
 <p>If you have any questions, suggestions, or just want to connect, feel free to reach out. I'm always open to new ideas and collaborations! Don't hesitate to send me a message, and I'll be happy to assist or chat about interesting projects. Feel free to get in touch! 😊</p>
