@@ -1,5 +1,5 @@
-<div align=center style="margin-bottom: 40px;">
-    <img width="70%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <div align=center>
