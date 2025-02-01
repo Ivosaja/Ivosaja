@@ -13,7 +13,12 @@
 
 </div>
 
+<div align=center>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&width=435&center=true&vCenter=true&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 
 
 <div align=center>
