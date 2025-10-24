@@ -35,7 +35,7 @@
 
 - 💻 I am a University Technician in Programming  
 - 📚 Currently, I am studying at UTN Fra
-- 📝 I have a strong interest in Backend and Mobile Development (Flutter/Kotlin)
+- 📝 I have a strong interest in Backend Development and exploring Low-Level Systems Programming for performance and efficiency.
 - 🌱 Learning Spring and Spring Boot in depth 
 - 🌟 Main languages: Java, JavaScript, Python, Typescript
 - 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, Debian, Mint, etc)
