@@ -36,7 +36,7 @@
 - 💻 I am a University Technician in Programming  
 - 📚 Currently, I am studying at UTN Fra
 - 📝 I have a strong interest in Backend Development and exploring Low-Level Systems Programming for performance and efficiency.
-- 🌱 Learning Spring and Spring Boot in depth 
+- 🌱 Learning Spring, Spring Boot and Rust in depth 
 - 🌟 Main languages: Java, JavaScript, Python, Typescript
 - 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, Debian, Mint, etc)
 - 🙋‍♂️ Reach out to me at: ivoliobel@gmail.com
