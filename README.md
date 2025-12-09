@@ -1,11 +1,11 @@
 
-<div align=center>
+<!--<div align=center>
 
 <img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
 <!--
 <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 -->
-</div>
+<!--</div>-->
 
 <div align=center>
 
