@@ -1,32 +1,16 @@
-# Ivo Saja 
-Backend Developer | Java & Spring | Linux Enthusiast  
+# ivo saja
 
-I'm a University Technician in Programming from Argentina, currently studying at UTN FRA.  
-Passionate about backend development, system performance and low-level programming.
+backend developer focused on building reliable systems, learning low-level concepts and understanding how things work under the hood.
 
-## 🚀 About Me
+university technician in programming — utn fra  
+argentina
 
-- 🎓 University Technician in Programming  
-- 📚 Currently deepening my knowledge in **Spring Boot**  
-- 🦀 Exploring **Rust** and low-level systems like C
-- 🐧 Linux enthusiast (Arch, Ubuntu, Debian)  
-- 💡 Interested in performance, clean architecture and scalable systems  
+## stack
+java · spring · node.js · postgresql · linux · docker
 
-## 🛠 Tech Stack
+## interests
+backend architecture · systems programming · performance & efficiency · gnu/linux
 
-**Languages**  
-Java · Python · JavaScript · TypeScript  
-
-**Backend**  
-Spring Boot · Node.js · Express · Nest.js 
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB  
-
-**Tools**  
-Git · Docker · Linux · Neovim
-
-## 📫 Contact
-
-- Linkedin: https://www.linkedin.com/in/ivo-saja  
-- Email: ivoliobel@gmail.com
+## contact
+linkedin: https://www.linkedin.com/in/ivo-saja  
+mail: ivoliobel@gmail.com
