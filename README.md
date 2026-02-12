@@ -1,33 +1,44 @@
 # Ivo Saja
 
-backend developer focused on building reliable systems, learning low-level concepts and understanding how things work under the hood.
+Backend Developer — Java & Spring  
+Argentina
 
-university technician in programming — UTN FRA  
-argentina
-
----
-
-## stack
-
-![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+I build backend systems focused on reliability, performance and clean architecture.  
+Currently deepening my knowledge in Spring Boot and exploring low-level programming with Rust and Linux environments.
 
 ---
 
-## interests
+## Tech Stack
 
-- backend architecture  
-- systems programming  
-- performance & efficiency  
-- gnu/linux ecosystems  
+**Backend**
+- Java
+- Spring / Spring Boot
+- Node.js / Express
+
+**Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+**Tools**
+- Linux
+- Docker
+- Git
+- REST APIs
+- Bash
 
 ---
 
-## contact
+## What I'm focused on
 
-- linkedin: https://www.linkedin.com/in/ivo-saja  
-- mail: ivoliobel@gmail.com
+- Building scalable backend services
+- System design and architecture
+- Performance and efficiency
+- Linux-based development environments
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ivo-saja  
+- Email: ivoliobel@gmail.com
