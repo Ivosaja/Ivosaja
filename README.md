@@ -6,7 +6,7 @@ university technician in programming — utn fra
 argentina
 
 ## stack
-java · spring · node.js · postgresql · linux · docker
+python · javascript · typescript · java · spring · node.js · nest.js · postgresql · mysql · git · linux · docker
 
 ## interests
 backend architecture · systems programming · performance & efficiency · gnu/linux
