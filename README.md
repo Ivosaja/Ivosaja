@@ -1,6 +1,6 @@
 # ivo saja
 
-backend dev focused on building reliable systems, learning low-level concepts and understanding how things work under the hood.
+backend developer focused on building reliable systems, learning low-level concepts and understanding how things work under the hood.
 
 university technician in programming — utn fra  
 argentina
