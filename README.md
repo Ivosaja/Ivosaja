@@ -12,5 +12,5 @@ python · javascript · typescript · java · spring · node.js · nest.js · po
 backend architecture · systems programming · performance & efficiency · gnu/linux
 
 ## contact
-linkedin: https://www.linkedin.com/in/ivo-saja  
+linkedin: www.linkedin.com/in/ivosaja 
 mail: ivoliobel@gmail.com
